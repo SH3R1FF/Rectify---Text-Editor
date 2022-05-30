@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RECTIFY-TextEditor/static/css/main.db523486.css",
+    "main.js": "/RECTIFY-TextEditor/static/js/main.1c147aa0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/RECTIFY-TextEditor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/RECTIFY-TextEditor/index.html",
+    "main.db523486.css.map": "/RECTIFY-TextEditor/static/css/main.db523486.css.map",
+    "main.1c147aa0.js.map": "/RECTIFY-TextEditor/static/js/main.1c147aa0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/RECTIFY-TextEditor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db523486.css",
+    "static/js/main.1c147aa0.js"
+  ]
+}

@@ -12,18 +12,18 @@ import {
 function App() {
   return (
     <>
-      <Router>
-        <Navbar title="RECTIFY" />
-        <div>
+      <div>
+        <Router>
+          <Navbar title="RECTIFY" />
           <Routes>
-            <Route exact path="/" element = {<TextForm heading="MANIPULATE THE TEXT" />} /> 
-    
-            <Route exact path="/About" element = {<About heading="ABOUT US" />} />
-              
+            {/* <Route exact path="/" element={<TextForm key="Home" heading="MANIPULATE THE TEXT" />} /> */}
+            <Route
+            index element={<TextForm key="Home" heading="MANIPULATE THE TEXT" />}  />
+            <Route exact path="/About" element={<About key="About" heading="ABOUT US" />} />
           </Routes>
-        </div>
-        <Footer />
-      </Router>
+          <Footer />
+        </Router>
+      </div>
     </>
 
   );
