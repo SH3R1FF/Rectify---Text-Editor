@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.db523486.css",
-    "main.js": "/static/js/main.9811a99b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.db523486.css.map": "/static/css/main.db523486.css.map",
-    "main.9811a99b.js.map": "/static/js/main.9811a99b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Rectify---Text-Editor/static/css/main.db523486.css",
+    "main.js": "/Rectify---Text-Editor/static/js/main.0252041d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Rectify---Text-Editor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Rectify---Text-Editor/index.html",
+    "main.db523486.css.map": "/Rectify---Text-Editor/static/css/main.db523486.css.map",
+    "main.0252041d.js.map": "/Rectify---Text-Editor/static/js/main.0252041d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Rectify---Text-Editor/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db523486.css",
-    "static/js/main.9811a99b.js"
+    "static/js/main.0252041d.js"
   ]
 }
